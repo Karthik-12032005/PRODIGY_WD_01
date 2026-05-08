@@ -38,4 +38,4 @@ Modern responsive fitness landing page with interactive navigation menu.
 
 # 👨‍💻 Developed By
 
-Karthik K
+Karthik 
